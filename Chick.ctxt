@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Chick()
+comment0.text=\n\ Default\ constructor\ for\ Chick\ \n\ \n
+comment1.params=
+comment1.target=java.lang.String\ speak()
+comment1.text=\n\ Allows\ the\ chick\ to\ speak\ \n\ @return\ the\ phrase\ the\ chick\ says\n
+numComments=2

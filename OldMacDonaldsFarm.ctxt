@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OldMacDonaldsFarm()
+comment0.text=\n\ Constructor\ for\ the\ OldMacDonaldsFarm\ tester\ \ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Tests\ the\ OldMacDonaldsFarm\ logic.\n\ \n\ @param\ args\ information\ past\ via\ the\ command\ line\n
+comment2.params=
+comment2.target=void\ singVerse()
+comment2.text=\n\ Gives\ the\ lyrics\ to\ the\ Old\ Macdonald\ song.\ \n\ \n
+numComments=3

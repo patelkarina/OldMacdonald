@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=latin\ common
+comment0.target=Animal(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ abstract\ class\ Animal.\n\ \n\ @param\ latin\ the\ latin\ name\ of\ the\ animal\n\ @param\ common\ the\ common\ name\ of\ the\ animal\ \n
+comment1.params=
+comment1.target=java.lang.String\ getLatinName()
+comment1.text=\n\ Gets\ the\ latin\ name\ of\ the\ animal.\ \n\ \n\ @return\ the\ latin\ name\ of\ the\ animal\ \n
+comment2.params=lName
+comment2.target=void\ setLatinName(java.lang.String)
+comment2.text=\n\ Sets\ the\ latin\ name\ of\ the\ animal.\ \n\ @param\ lName\ the\ latin\ name\ of\ the\ animal\ \n\ \n
+comment3.params=cName
+comment3.target=void\ setCommonName(java.lang.String)
+comment3.text=\n\ Sets\ the\ common\ name\ of\ the\ animal.\ \n\ @param\ cName\ the\ common\ name\ of\ the\ animal\ \n\ \n
+comment4.params=
+comment4.target=java.lang.String\ getCommonName()
+comment4.text=\n\ Gets\ the\ common\ name\ of\ the\ animal\ \n\ \n\ @return\ the\ common\ name\ of\ the\ animal\ \n
+comment5.params=
+comment5.target=java.lang.String\ speak()
+comment5.text=\n\ Allows\ the\ animal\ to\ speak\ \n\ @return\ the\ phrase\ that\ the\ animal\ says\ \n
+comment6.params=obj
+comment6.target=int\ compareTo(java.lang.Object)
+comment6.text=\n\ Compares\ the\ name\ of\ one\ object\ to\ another\ \n\ @param\ obj\ the\ object\ being\ tested\ as\ an\ animal\ \ \n\ @return\ true\ if\ the\ object\ is\ an\ animal,\ otherwise\ \n\ @throw\ IllegalArgumentException\ if\ the\ object\ is\ not\ an\ animal\ \n\ \n
+numComments=7

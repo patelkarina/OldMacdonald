@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Chicken()
+comment0.text=\n\ Default\ constructor\ for\ a\ Chicken\ that\ calls\ the\ constructor\ with\ one\ parameter\ \n\ \n
+comment1.params=chickenType
+comment1.target=Chicken(java.lang.String)
+comment1.text=\n\ Constructor\ for\ a\ Chicken\ with\ one\ parameter\n\ \n\ @param\ chickenType\ the\ type\ of\ the\ chicken\ \n
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment2.text=\n\ Allows\ the\ chicken\ to\ speak\ \n\ @return\ the\ phrase\ the\ chicken\ says\n
+numComments=3

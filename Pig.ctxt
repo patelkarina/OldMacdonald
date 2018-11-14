@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pig()
+comment0.text=\n\ Default\ constructor\ for\ a\ pig\ \n
+comment1.params=
+comment1.target=java.lang.String\ speak()
+comment1.text=\n\ Allows\ the\ pig\ to\ speak\ \n\ \n\ @return\ the\ phrase\ the\ pig\ speaks\ \n
+numComments=2
